@@ -1,0 +1,41 @@
+This will be a file to serve as a place for useful tutorials and reference code I have found.
+
+Tutorials I may want to redo
+
+angular animations
+Create animations using angular
+https://www.youtube.com/watch?v=ra5qNKNc95U
+ https://angular.io/guide/animations
+
+Survey JS
+Potential tool to create surveys
+https://surveyjs.io/create-survey
+
+
+
+Tutorials that have useful reference code
+
+Animate CSS
+Used to create simple animations using CSS
+ https://github.com/daneden/animate.css
+ 
+Chart JS
+Useful for creating Graphs and charts
+https://www.youtube.com/watch?v=sE08f4iuOhA
+
+World Map
+Creates a cool world map that you can adjust
+https://stackoverflow.com/questions/43164536/how-do-you-make-a-map-with-clickable-countries-in-angular-2
+
+Spring Master Class
+A udemy course that goes over most of the elements of spring
+https://www.udemy.com/spring-tutorial-for-beginners/learn/lecture/7725720?start=75#overview
+
+Spring Intilizer 
+Easy Way to create a Spring Project
+https://start.spring.io/
+
+Wesley tutorials
+Tutorials that we went through during training
+https://github.com/wsingleton/190422-Java-USF
+
